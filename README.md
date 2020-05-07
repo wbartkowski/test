@@ -1,2 +1,3 @@
 # test
- repozytorium testowe do anuki gita
+ repozytorium testowe do nauki gita
+ la la la
